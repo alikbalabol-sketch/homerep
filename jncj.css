@@ -1,3 +1,131 @@
 *{
     margin: 0;
 }
+.a1{
+    width: 1172px;
+    height: 50px ;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.a2{
+    width: 106px;
+    height: 38px;
+    display: flex;
+    align-items: center;
+}
+.a2 p{
+    font-size:33px ;
+}
+.a3{
+    width: 606px;
+    height: 23px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 315px;
+}
+.a3 p{
+      font-size: 18px;
+      font-weight: 400;
+}
+.a4
+{
+    width: 20px;
+    height: 19px;
+    position: relative;
+}
+.a5{
+    width: 14px; 
+    height: 14px;
+    position:absolute;
+    left: 12px;
+    bottom: 10px;
+}
+.a6{
+    width: 120px;
+    height: 50px;
+    background-color: #FF7A50;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+.a7{
+    width: 100%;
+    height: 681px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.a8{
+    width: 530px;
+    height: 681px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 35px;
+}
+.a8 h1{
+    margin-top: 165px;
+    font-size: 66px;
+}
+.a8 p{
+    font-size: 20px;
+    font-weight: 400;
+}
+.a9{
+    width: 328px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.a9 p{
+    margin-left: 30px;
+    align-items: center;
+    font-size: 20px;
+}
+.a10{
+    width: 689px;
+    height: 681px;
+    position: relative;
+}
+.a11{
+    width: 689px;
+    height: 681px;
+    position: absolute;
+}
+.a12{
+    width: 48px;
+    height: 43px;
+    position: absolute;
+    left: 245px;
+    top:45px;
+}
+.a13{
+    width: 48px;
+    height: 43px;
+    position: absolute;
+    top: 33px;
+    right: 117px;
+}
+.a14{
+    width: 91px;
+    height: 169px;
+    position: absolute;
+    left: 503px;
+    top: 47px;
+}
+.a15{
+    width: 188px;
+    height: 105px;
+    position: absolute;
+    left: 543px;
+    top: 271px;
+}
+.a16{
+    width: 164px;
+    height: 64px;
+    position: absolute;
+    left: 124px;
+    top: 123px;
+}
